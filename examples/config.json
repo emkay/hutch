@@ -1,0 +1,31 @@
+{
+  "sites": [
+    {
+      "example": {
+        "key": "example",
+        "host": "example.com",
+        "role": "web",
+        "ver": "0.0.1",
+        "www": true
+      }
+    },
+
+    {
+      "example_beta": {
+        "key": "example",
+        "host": "beta.example.com",
+        "role": "web",
+        "ver": "0.0.2"
+      }
+    },
+
+    {
+      "example_api": {
+        "key": "example",
+        "host": "api.example.com",
+        "role": "api",
+        "ver": "0.0.1"
+      }
+    }
+  ]
+}

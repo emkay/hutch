@@ -1,4 +1,4 @@
 hutch
 =====
 
-store your sites in a hutch
+Hutch uses seaport and http-proxy to keep track of all your sites.
